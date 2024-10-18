@@ -45,7 +45,7 @@ const Footer = () => {
         </div>
       </div>
 
-      <div className="bg-black h-10  md:h-[70px] mt-16 w-full bottom-0 left-0" />
+      <div className="bg-black h-10 dark:bg-white  md:h-[70px] mt-16 w-full bottom-0 left-0" />
     </footer>
   );
 };
